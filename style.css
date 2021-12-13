@@ -20,7 +20,7 @@ body{
     height:auto;
 }
 .nav{
-    background-color: #997A8D;
+    background-color: lavender;
     border: 2px solid #F7FFF7;
     text-align: center;
     width:auto;
@@ -44,7 +44,9 @@ li{
 }
 li a{
     display: block;
+    margin-right: 10%;
     text-align:center;
+    background-color:lavender;
 }
 li a:hover{
     background-color:#CB904D;
@@ -55,7 +57,7 @@ li a:hover{
 }
 
 .content{
-    background-color: lavender;
+    background-color: #997A8D;
     border: 2px solid #F7FFF7;
     text-align: center;
     width:auto;
