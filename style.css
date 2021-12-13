@@ -8,6 +8,8 @@ body{
     border: 2px solid #F7FFF7;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:#558C8C;
+    font-size:large;
+    text-size-adjust:auto;
 
 }
 .head{
