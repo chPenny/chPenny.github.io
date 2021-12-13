@@ -3,3 +3,32 @@
 /* 3C0000 - Black Bean */
 /* 558C8C - Steel Teal */
 /* CB904D - Persian Orange */
+body{
+    background-color: #3C0000;
+    border: 2px solid #F7FFF7;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#558C8C;
+
+}
+.head{
+    background-color: #CB904D;
+    border: 2px solid #F7FFF7;
+    text-align: center;
+    width:auto;
+    height:auto;
+}
+.nav{
+    background-color: #997A8D;
+    border: 2px solid #F7FFF7;
+    text-align: center;
+    width:auto;
+    height:auto;
+
+}
+.content{
+    background-color: lavender;
+    border: 2px solid #F7FFF7;
+    text-align: center;
+    width:auto;
+    height:auto;
+}
