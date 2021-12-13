@@ -25,8 +25,11 @@ body{
     text-align: center;
     width:auto;
     height:auto;
-    position: fixed;
-    top: 0;
+}
+ul{
+    position:-webkit-sticky;
+    position:sticky;
+    top:0;
 }
 li a{
     display: block;
@@ -35,6 +38,9 @@ li a{
 li a:hover{
     background-color:#CB904D;
 
+}
+.active{
+    background-color:#997A8D;
 }
 
 .content{
